@@ -1,0 +1,38 @@
+{
+"ManRole": "",
+"WomanRole": "",
+"ManRoles": ["", ""],
+"WomanRoles": ["", ""],
+"UnregisterRole": "",
+"SuspectRole": "",
+
+"VipRole": "",
+"SponsorRole": "",
+
+"TagRole": "",
+"BoosterRole": "",
+"JoinedRole": "",
+"İzinliRole": "",
+
+"JailRole": "",
+"MuteRole": "",
+"VoiceMuteRole": "",
+"AdvertisementRole": "",
+
+"WarnRole_1": "",
+"WarnRole_2": "",
+"WarnRole_3": "",
+"BannedTagRole": "",
+
+
+"PublicResponsible": "",
+"ChatResponsible": "",
+"RegisterResponsible": "",
+"InviteResponsible": "",
+"tagResponsible": "",
+"StaffResponsible": "",
+"StreamerResponsible": "",
+"GamesResponsible": "",
+"SponsorResponsible": "",
+"EtkinlikResponsible": ""
+}

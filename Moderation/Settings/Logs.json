@@ -1,0 +1,26 @@
+{
+"BanLog": "",
+"KickLog": "",
+"JailLog": "",
+"MuteLog": "",
+"VoiceMuteLog": "",
+"ReklamLog": "",
+"WarnLog": "",
+
+"UnBanLog": "",
+"UnJailLog": "",
+"UnMuteLog": "",
+"UnVoiceMuteLog": "",
+"UnReklamLog": "",
+
+"RolLog": "",
+"AutoRolLog": "",
+"AutotagLog": "",
+"CommandLog": "",
+"SuspectLog": "",
+
+"SoundsLog": "",
+"MessageDeleteLog": "",
+"MessageUpdateLog": "",
+"SorumlulukLog": ""
+}

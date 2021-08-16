@@ -1,0 +1,16 @@
+{
+"OwnerPermissions": [""],
+"ManagerPermissions": [""],
+"RoleManagerPermissions": [""],
+"AllPenalsPermissions": [""],
+
+"BotCommands": "",
+"RegisterPermissions": "",
+"BanPermissions": "",
+"JailPermissions": "",
+"MutePermissions": "",
+"VoiceMutePermissions": "",
+"TransportPermissions": "",
+"WarnPermissions": "",
+"EnaltYT": ""
+}
